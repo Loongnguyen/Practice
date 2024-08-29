@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/images/prts-logo.png</ImageUrl>
+		<NavigateUrl>https://www.pinterest.com/</NavigateUrl>
+		<AlternateText>Ad 1</AlternateText>
+		<Impressions>10</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/sp-logo.png</ImageUrl>
+		<NavigateUrl>https://shopee.vn/</NavigateUrl>
+		<AlternateText>Ad 2</AlternateText>
+		<Impressions>10</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/amz-logo.png</ImageUrl>
+		<NavigateUrl>https://www.amazon.com/</NavigateUrl>
+		<AlternateText>Ad 2</AlternateText>
+		<Impressions>10</Impressions>
+	</Ad>
+</Advertisements>
