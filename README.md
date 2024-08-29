@@ -1,2 +1,1 @@
-"# Practice" 
-"# Practice" 
+"Bài code đơn giản"
